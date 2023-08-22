@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162199936916",
+    "project_id": "fotopaylas-520cc",
+    "storage_bucket": "fotopaylas-520cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162199936916:android:98223b4ff7af006ae7b981",
+        "android_client_info": {
+          "package_name": "com.example.postpaylasma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162199936916-7rau5bjepiro1t0lnaa2hfee43ea9b2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi_vWPcVX2ucXVhXTuWb2DiM2wPm3624A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162199936916-7rau5bjepiro1t0lnaa2hfee43ea9b2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
